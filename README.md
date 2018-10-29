@@ -1,15 +1,34 @@
+**Chủ ngữ giả với IT:**
+
+**IT** thường được dùng như một đại từ để tránh lặp lại danh từ đã đề cập trước đó trong câu, nhưng đôi khi **it** còn đứng làm chủ ngữ trước động từ TO BE chứ không thay cho danh từ nào. Khi đó IT được xem là **chủ ngữ giả**
+
+Ví dụ 1:
+
+This is my house. It is very beautiful.
+
+**it** trong Ví dụ 1 là đại từ thay thế cho danh từ **my house** đã được nhắc đến trước đó để tránh sự lặp lại không cần thiết. Trường hợp này **it** là chủ ngữ thật.
+
+Ví dụ 2:
+
+It is very interesting to read this book.
+
+**it** trong ví dụ 2 thì khác. Nó không thay thế cho bất kì danh từ nào, nó chỉ đứng trước **is** để làm chủ ngữ cho động từ này. Nên **it** ở đây là chủ ngữ giả.
+
+**Các cấu trúc thường gặp:**
+
 ```
-  Copyright 2017 Dimitry Ivanov (mail@dimitryivanov.ru)
 
-  Licensed under the Apache License, Version 2.0 (the "License");
-  you may not use this file except in compliance with the License.
-  You may obtain a copy of the License at
+It + be + adj + to do something.
 
-      http://www.apache.org/licenses/LICENSE-2.0
-
-  Unless required by applicable law or agreed to in writing, software
-  distributed under the License is distributed on an "AS IS" BASIS,
-  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-  See the License for the specific language governing permissions and
-  limitations under the License.
 ```
+
+
+Ví dụ: It’s interesting to watch this film.
+
+```
+
+ It + be + adj + that clause.
+
+```
+
+Ví dụ: It’s disgusting that he turns his radio too loud.

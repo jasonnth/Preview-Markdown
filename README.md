@@ -1,59 +1,315 @@
-<h4>Chủ ngữ giả It</h4>**Chủ ngữ giả với IT:**<br/><br/>**IT** thường được dùng như một đại từ để tránh lặp lại danh từ đã đề cập trước đó trong câu, nhưng đôi khi **it** còn đứng làm chủ ngữ trước động từ TO BE chứ không thay cho danh từ nào. Khi đó IT được xem là **chủ ngữ giả**<br/><br/> Ví dụ 1: <br/> This is my house. It is very beautiful. <br/> **it** trong Ví dụ 1 là đại từ thay thế cho danh từ **my house** đã được nhắc đến trước đó để tránh sự lặp lại không cần thiết. Trường hợp này **it** là chủ ngữ thật. <br/><br/> Ví dụ 2: <br/> It is very interesting to read this book. <br/>  **it** trong ví dụ 2 thì khác. Nó không thay thế cho bất kì danh từ nào, nó chỉ đứng trước **is** để làm chủ ngữ cho động từ này. Nên **it** ở đây là chủ ngữ giả.<br/><br/> **Các cấu trúc thường gặp:**<br/><br/> >**It + be + adj + to do something.**<br/> <br/>Ví dụ: It’s interesting to watch this film. <br/><br/> >**It + be + adj + that clause.**<br/> <br/>Ví dụ: It’s disgusting that he turns his radio too loud.<br/><br/><h4>IF CONDITION - CÂU ĐIỀU KIỆN</h4>**Định nghĩa:** <br/> &#45; Câu điều kiện bao gồm hai mệnh đề: *mệnh đề chính* và *mệnh đề IF*.<br/>
-&#45; Sự việc, sự vật được miêu tả trong mệnh đề chính phụ thuộc hoặc là kết quả của điều kiện diễn tả trong mệnh đề IF.<br/> &#45; Thông thường ta có thể thay đổi thứ tự của hai mệnh đề với nhau. Để phân cách hai mệnh đề ta có thể dùng dấu phẩy nhưng đối với trường hợp mệnh để chính đứng trước ta không cần dùng dấu phẩy. <br/><br/> **Các loại câu điều kiện:** <br/><br/> **&#8226; Câu điều kiện loại 1:** <br/>
-**Cách dùng:**<br/>
-Câu điều kiện loại I (câu điều kiện tương lai) dùng để diễn ta sự thật ở hiện tại hoặc có khả năng xảy ra ở tương lai. Ngoài ra câu điều kiện loại I thường dùng để diễn tả sự thuyết phục, thương lượng hoặc đưa ra cảnh báo, hăm dọa.<br/>
-Ví dụ: <br/>
-&#45; *Thương lượng:* <br/> 
-I**’ll** take the children to school if you **make** breakfast. <br/> *(Em sẽ đưa bọn trẻ đến trường nếu anh làm bữa sáng.)*<br/>
-&#45; *Cảnh báo:*<br/>
-If you **try to take** a short cut, you**’ll get lost**. <br/> *(Nếu bạn cố gắng đi đường tắt, bạn sẽ bị lạc.)*<br/>
-&#45; *Hăm dọa:*<br/> 
-If you **call** the police, your son **will die.** <br/> *(Nếu ông gọi cảnh sát, con trai ông sẽ chết.)*<br/>
-&#45; *Câu mệnh lệnh*:<br/> 
-If you **are** hungry, please **help** yourself. <br/> *(Nếu bạn đói bụng, cứ tự nhiên dùng.)* <br/><br/>
+![logo](./art/markwon_logo.png)
 
-**Cấu trúc:**<br/> <br/>
+```
+S (Chủ ngữ )+ *V* ( *Động từ ở thì hiện tại* ) + O +...
+```
 
-| **Mệnh đề IF** | **Mệnh đề chính** | **Ví dụ**<br/>
-| --- | --- | --- <br/>
-| Simple present (Hiện tại đơn) |  - Can/may/must  | If you **want to lose** weight, you **must go** on a diet. (Nếu bạn muốn giảm cân, bạn phải có kế độ ăn uống.) <br/>
-| Simple present (Hiện tại đơn)  | will/shall | If you **catch** the bus,  you **will be** at school on time. (Nếu bạn đón được xe buýt, bạn sẽ đến trường kịp giờ.)<br/><br/>
-**&#8226; Câu điều kiện loại 2:** <br/>
-**Cách dùng:**<br/>
-Câu điều kiện loại II (câu điều kiện không có thật ở hiện tại) được dùng để diễn tả sự vật, sự việc không khả thi hay trái với sự thật ngay thời điểm nói. Câu điều kiện loại II thường ám chỉ thì hiện tại hoặc tương lai. <br/>
-Ví dụ: <br/>
-&#45; *Hiện tại:*<br/>
-If he **didn’t annoy** me so much, I **wouldn’t leave** him. <br/> *(Nếu anh ấy không làm phiền tôi nhiều quá, tôi cũng sẽ không bỏ đi đâu.)*<br/>
-&#45; *Tương lai:*<br/>
-If I **got** his birthday party’s invitation, I**’d go** there right away.<br/> *(Nếu tôi nhận được lời mời sinh nhật, tôi sẽ đến đó ngay lập tức.)*<br/><br/>
+# Markwon
 
-**Cấu trúc:**<br/> <br/>
+[![markwon](https://img.shields.io/maven-central/v/ru.noties/markwon.svg?label=markwon)](http://search.maven.org/#search|ga|1|g%3A%22ru.noties%22%20AND%20a%3A%22markwon%22)
+[![markwon-image-loader](https://img.shields.io/maven-central/v/ru.noties/markwon-image-loader.svg?label=markwon-image-loader)](http://search.maven.org/#search|ga|1|g%3A%22ru.noties%22%20AND%20a%3A%22markwon-image-loader%22)
+[![markwon-syntax-highlight](https://img.shields.io/maven-central/v/ru.noties/markwon-syntax-highlight.svg?label=markwon-syntax-highlight)](http://search.maven.org/#search|ga|1|g%3A%22ru.noties%22%20AND%20a%3A%22markwon-syntax-highlight%22)
+[![markwon-view](https://img.shields.io/maven-central/v/ru.noties/markwon-view.svg?label=markwon-view)](http://search.maven.org/#search|ga|1|g%3A%22ru.noties%22%20AND%20a%3A%22markwon-view%22)
 
-| **Mệnh đề IF** | **Mệnh đề chính** | **Ví dụ**<br/>
-| --- | --- | --- <br/>
-| were  | would/could + V (bare) | I**’d be** able to find the information if I **were** at home. *(Tôi có thể tìm được thông tin nếu tôi ở nhà.)*<br/> <br/> **&#8226; Câu điều kiện loại 3:**<br/> 
-**Cách dùng:**<br/>
-Câu điều kiện loại III (câu điều kiện quá khứ) được dùng ở quá khứ, diễn tả các sự vật, sự việc không xảy ra trong quá khứ có thể có ảnh hưởng đến các sự vật, sự việc khác. Câu điều kiện loại III thường ám chỉ điều xấu hổ, tiếc nuối trong quá khứ.<br/>
-Ví dụ: <br/>
-If we **hadn’t wasted** time, we **wouldn’t have missed** our flight. <br/> *(Nếu chúng ta không lãng phí thời gian, chúng ta đã không lỡ chuyến bay.)*<br/><br/>
+**Markwon** is a markdown library for Android. It parses markdown
+following [commonmark-spec] with the help of amazing [commonmark-java]
+library and renders result as _Android-native_ Spannables. **No HTML**
+is involved as an intermediate step. <u>**No WebView** is required</u>.
+It's extremely fast, feature-rich and extensible.
 
-**Cấu trúc:**<br/> <br/>
+It gives ability to display markdown in all TextView widgets
+(**TextView**, **Button**, **Switch**, **CheckBox**, etc), **Toasts**
+and all other places that accept **Spanned content**. Library provides
+reasonable defaults to display style of a markdown content but also 
+gives all the means to tweak the appearance if desired. All markdown
+features listed in [commonmark-spec] are supported
+(including support for **inlined/block HTML code**, **markdown tables**,
+**images** and **syntax highlight**).
 
-| **Mệnh đề IF** | **Mệnh đề chính** | **Ví dụ**<br/>
-| --- | --- | --- <br/>
-| Had + V3/-ed | could/would + have + V3/-ed | If I **hadn’t driven** so fast, you **would never have had** the accident.<br/> <br/> **&#8226; Câu điều kiện loại 0:** <br/> Câu điều kiện loại 0 thường được dùng để diễn tả một sự thật, chân lý.<br/>
-> **IF + (Simple present), (Simple present)**<br/> <br/>
+[commonmark-spec]: https://spec.commonmark.org/0.28/
+[commonmark-java]: https://github.com/atlassian/commonmark-java/blob/master/README.md
 
-Ví dụ: <br/> If you **heat** the ice, it **melts**. <br/> *(Nếu bạn đun nước đá, nó sẽ tan chảy.)*<br/><br/> **&#8226; Câu điều kiện hỗn hợp:**<br/><br/> 
+<sup>*</sup>*This file is displayed by default in the [sample-apk] (`markwon-sample-{latest-version}-debug.apk`) application. Which is a generic markdown viewer with support to display markdown via `http`, `https` & `file` schemes and 2 themes included: Light & Dark*
 
-&#8226; Mệnh đề If loại 2, mệnh đề chính loại 1: Dùng để diễn tả giả thiết ở quá khứ, kết quả ở tương lai <br/> 
-> **If + S + V2/ed + O, S + will + V(bare) + O.**<br/> <br/>
-Ví dụ:<br/> They didn’t post the parcel, so it won’t get here tomorrow. <br/> &#8594; If they posted the parcel yesterday, it will get here tomorrow. <br/> *(Nếu họ gửi bưu phẩm ngày hôm qua, thì nó sẽ  đến đây vào ngày mai)*<br/><br/>
+[sample-apk]: https://github.com/noties/Markwon/releases
 
-&#8226; Mệnh đề If loại 2, mệnh đề chính loại 3: Dùng để diễn tả giả thiết trái ngược với thực tại, còn kết quả thì trái ngược với quá khứ. <br/>
->**If + S + V2/ed + O, S + would + have + V3/ed + O.** <br/> <br/>
-Ví dụ:<br/> Tom is not a good student. He did not study for the test yesterday.<br/> &#8594; If he were a good student, he would have studied for the test. <br/> *(Nếu cậu ta là học sinh giỏi, câu ta sẽ phải học tập cho bài kiểm tra)*<br/><br/>
+## Installation
+```groovy
+implementation "ru.noties:markwon:${markwonVersion}"
+implementation "ru.noties:markwon-image-loader:${markwonVersion}" // optional
+implementation "ru.noties:markwon-syntax-highlight:${markwonVersion}" // optional
+implementation "ru.noties:markwon-view:${markwonVersion}" // optional
+```
 
-&#8226; Mệnh đề If loại 3, mệnh đề chính loại 2: Dùng để diễn tả giả thiết trái ngược với quá khứ, nhưng kết quả thì trái ngược với hiện tại. <br/>
->**If + S + had + V3/ed + O, S + would/could + V(bare) + O.**<br/> <br/>
-Ví dụ:<br/> I did not eat breakfast this morning, so I’m hungry now. <br/> &#8594; If I had eaten breakfast this morning, I wouldn’t be hungry now. <br/> *(Nếu tôi ăn sáng, thì giờ tôi đã không phải đói meo râu rồi)* <br/><br/>
+Please visit [documentation] web-site for further reference
+
+## Supported markdown features:
+* Emphasis (`*`, `_`)
+* Strong emphasis (`**`, `__`)
+* Strike-through (`~~`)
+* Headers (`#{1,6}`)
+* Links (`[]()` && `[][]`)
+* Images
+* Thematic break (`---`, `***`, `___`)
+* Quotes & nested quotes (`>{1,}`)
+* Ordered & non-ordered lists & nested ones
+* Inline code
+* Code blocks
+* Tables (*with limitations*)
+* Syntax highlight
+* HTML
+  * Emphasis (`<i>`, `<em>`, `<cite>`, `<dfn>`)
+  * Strong emphasis (`<b>`, `<strong>`)
+  * SuperScript (`<sup>`)
+  * SubScript (`<sub>`)
+  * Underline (`<u>`, `ins`)
+  * Strike-through (`<s>`, `<strike>`, `<del>`)
+  * Link (`a`)
+  * Lists (`ul`, `ol`)
+  * Images (`img` will require configured image loader)
+  * Blockquote (`blockquote`)
+  * Heading (`h1`, `h2`, `h3`, `h4`, `h5`, `h6`)
+  * there is support to render any HTML tag
+* Task lists:
+- [ ] Not _done_
+  - [X] **Done** with `X`
+  - [x] ~~and~~ **or** small `x`
+---
+
+## Screenshots
+
+Taken with default configuration (except for image loading):
+
+<a href="./art/mw_light_01.png"><img src="./art/mw_light_01.png" width="30%" /></a>
+<a href="./art/mw_light_02.png"><img src="./art/mw_light_02.png" width="30%" /></a>
+<a href="./art/mw_light_03.png"><img src="./art/mw_light_03.png" width="30%" /></a>
+<a href="./art/mw_dark_01.png"><img src="./art/mw_dark_01.png" width="30%" /></a>
+
+By default configuration uses TextView textColor for styling, so changing textColor changes style
+
+---
+
+## Documentation
+
+Please visit [documentation] web-site for reference
+
+[documentation]: https://noties.github.io/Markwon
+
+---
+
+# Demo
+Based on [this cheatsheet][cheatsheet]
+
+---
+
+## Headers
+---
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+---
+
+## Emphasis
+
+Emphasis, aka italics, with *asterisks* or _underscores_.
+
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
+
+Combined emphasis with **asterisks and _underscores_**.
+
+Strikethrough uses two tildes. ~~Scratch this.~~
+
+---
+
+## Lists
+1. First ordered list item
+2. Another item
+  * Unordered sub-list.
+1. Actual numbers don't matter, just that it's a number
+  1. Ordered sub-list
+4. And another item.
+
+   You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
+
+   To have a line break without a paragraph, you will need to use two trailing spaces.
+   Note that this line is separate, but within the same paragraph.
+   (This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
+
+* Unordered list can use asterisks
+- Or minuses
++ Or pluses
+
+---
+
+## Links
+
+[I'm an inline-style link](https://www.google.com)
+
+[I'm a reference-style link][Arbitrary case-insensitive reference text]
+
+[I'm a relative reference to a repository file](../blob/master/LICENSE)
+
+[You can use numbers for reference-style link definitions][1]
+
+Or leave it empty and use the [link text itself].
+
+---
+
+## Code
+
+Inline `code` has `back-ticks around` it.
+
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+```java
+/**
+ * Helper method to obtain a Parser with registered strike-through &amp; table extensions
+ * &amp; task lists (added in 1.0.1)
+ *
+ * @return a Parser instance that is supported by this library
+ * @since 1.0.0
+ */
+@NonNull
+public static Parser createParser() {
+  return new Parser.Builder()
+      .extensions(Arrays.asList(
+          StrikethroughExtension.create(),
+          TablesExtension.create(),
+          TaskListExtension.create()
+      ))
+      .build();
+}
+```
+
+```xml
+<ScrollView
+  android:id="@+id/scroll_view"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:layout_marginTop="?android:attr/actionBarSize">
+
+  <TextView
+    android:id="@+id/text"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="16dip"
+    android:lineSpacingExtra="2dip"
+    android:textSize="16sp"
+    tools:context="ru.noties.markwon.MainActivity"
+    tools:text="yo\nman" />
+
+</ScrollView>
+```
+
+```
+No language indicated, so no syntax highlighting.
+But let's throw in a <b>tag</b>.
+```
+
+---
+
+## Tables
+
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
+---
+
+## Blockquotes
+
+> Blockquotes are very handy in email to emulate reply text.
+> This line is part of the same quote.
+
+Quote break.
+
+> This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
+Nested quotes
+> Hello!
+>> And to you!
+
+---
+
+## Inline HTML
+
+```html
+<u><i>H<sup>T<sub>M</sub></sup><b><s>L</s></b></i></u>
+```
+
+<u><i>H<sup>T<sub>M</sub></sup><b><s>L</s></b></i></u>
+
+---
+
+Pres<u>ent</u>
+
+## Horizontal Rule
+
+Three or more...
+
+---
+
+Hyphens (`-`)
+
+***
+
+Asterisks (`*`)
+
+___
+
+Underscores (`_`)
+
+---
+
+## Applications using Markwon
+
+* [FairNote Notepad](https://play.google.com/store/apps/details?id=com.rgiskard.fairnote)
+
+
+## License
+
+```
+  Copyright 2017 Dimitry Ivanov (mail@dimitryivanov.ru)
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+```
+
+[cheatsheet]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+[arbitrary case-insensitive reference text]: https://www.mozilla.org
+[1]: http://slashdot.org
+[link text itself]: http://www.reddit.com
